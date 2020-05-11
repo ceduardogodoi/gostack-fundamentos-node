@@ -28,6 +28,12 @@
       {
         "ts": "never"
       }
+    ],
+    "no-param-reassign": [
+      "error",
+      {
+        "props": false
+      }
     ]
   },
   "settings": {
